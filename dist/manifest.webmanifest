@@ -1,0 +1,1 @@
+{"name":"React PWA","short_name":"React PWA","start_url":"/react-pwa/","display":"standalone","background_color":"#e8ebf2","lang":"en","scope":"/react-pwa/","description":"React PWA","icons":[{"src":"/react-pwa/eevee-512x512.png","sizes":"512x512","type":"image/png","purpose":"any"}],"theme_color":"#171717","orientation":"portrait"}
